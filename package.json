@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "deep-freeze": "0.0.1",
+    "redux": "^3.7.2"
   }
 }
